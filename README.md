@@ -1,7 +1,7 @@
 # Hi there!
 I am a web developer with extensive experience in building and maintaining websites and web applications.
 
-My favorite stack: PHP, JS, Laravel, Filament, WordPress, WooCommerce.
+My favorite stack: PHP, JS, Laravel, Filament, WordPress, WooCommerce, ReactJS, NextJS, VueJS, NuxtJS, SvelteKit.
 
 # Services
 - Consultation
