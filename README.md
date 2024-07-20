@@ -18,4 +18,5 @@ My favorite stack: PHP, JS, Laravel, Filament, WordPress, WooCommerce, ReactJS, 
 
 # Contact
 
-Telegram https://t.me/aiiddqd
+- Telegram https://t.me/aiiddqd
+- Subscribe https://app.daily.dev/aiiddqd
