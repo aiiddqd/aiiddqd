@@ -6,14 +6,14 @@ My favorite stack: PHP, JS, Laravel, Filament, WordPress, WooCommerce, ReactJS, 
 # Services
 - Consultation
 - Debugging and Troubleshooting
-- Custom Web Development
-- E-commerce Solutions
-- Website Maintenance and Updates
 - Performance Optimization
+- E-commerce Solutions
+- Code Review and Refactoring
 - API Integration
+- Custom Web Development
+- Website Maintenance and Updates
 - Responsive Design
 - SEO Optimization
-- Code Review and Refactoring
 
 
 # Contact
