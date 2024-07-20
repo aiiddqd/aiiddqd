@@ -4,7 +4,7 @@ I am a web developer with extensive experience in building and maintaining websi
 My favorite stack: PHP, JS, Laravel, Filament, WordPress, WooCommerce, ReactJS, NextJS, VueJS, NuxtJS, SvelteKit.
 
 # Services
-- Consultation
+- Consulting
 - Debugging and Troubleshooting
 - Performance Optimization
 - E-commerce Solutions
