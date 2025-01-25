@@ -13,7 +13,7 @@ My favorite stack: PHP, JS, Laravel, Filament, WordPress, WooCommerce, ReactJS, 
 - Custom Web Development
 - Website Maintenance and Updates
 - Responsive Design
-- SEO Optimization
+- SEO & SEM
 
 
 # Contacts
