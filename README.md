@@ -3,6 +3,12 @@ I am a web developer with extensive experience in building and maintaining websi
 
 My favorite stacks: PHP, JS, Laravel, Filament, WordPress, WooCommerce, ReactJS, NextJS, VueJS, NuxtJS, SvelteKit.
 
+# Contacts
+
+- Telegram https://t.me/aiiddqd
+- Subscribe https://app.daily.dev/aiiddqd
+
+
 # Services
 - Consulting
 - Debugging and Troubleshooting
@@ -14,9 +20,3 @@ My favorite stacks: PHP, JS, Laravel, Filament, WordPress, WooCommerce, ReactJS,
 - Website Maintenance and Updates
 - Responsive Design
 - SEO & SEM
-
-
-# Contacts
-
-- Telegram https://t.me/aiiddqd
-- Subscribe https://app.daily.dev/aiiddqd
