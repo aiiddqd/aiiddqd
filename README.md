@@ -1,7 +1,8 @@
 # Hi there!
-I am a web developer with extensive experience in building and maintaining websites and web applications.
+I'm a passionate **web developer** with extensive experience in building and maintaining websites and web applications.
 
-My favorite stacks: PHP, JS, Laravel, Filament, WordPress, WooCommerce, SvelteKit, ReactJS, NextJS.
+My favorite stacks: JS & PHP;
+Tools: Laravel, Filament, WordPress, WooCommerce, ReactJS, NextJS, SvelteJS;
 
 # Contacts
 
@@ -10,13 +11,14 @@ My favorite stacks: PHP, JS, Laravel, Filament, WordPress, WooCommerce, SvelteKi
 
 
 # Services
-- Consulting
-- Debugging and Troubleshooting
+- Consulting & Agile practices
 - Performance Optimization
 - E-commerce Solutions
+- Debugging and Troubleshooting
 - Code Review and Refactoring
 - API Integration
 - Custom Web Development
 - Website Maintenance and Updates
 - Responsive Design
 - SEO & SEM
+- AI
